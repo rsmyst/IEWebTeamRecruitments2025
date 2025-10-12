@@ -1,4 +1,18 @@
 # Recruitment Tasks - Phase 1
+## Task Submission Link: https://forms.gle/Hh5VLWzCW6QRtnZg6
+## Deadline: 24th October, 2025 11:59 PM. 
+## Instructions:  
+- All submissions MUST be in github repos. 
+- Good Code quality MUST be followed with proper variable naming and clean code.
+- Submissions MUST include screenshots in the repo Readme folder.
+- Submissions MUST include a proper Readme detailing the usage and installation of the project.
+
+Failure to follow these requirements will result in disqualification from recs. 
+
+## Contacts: 
+- Rahul Saravanan - +91 7845143007
+- Ahan Halder - +91 9769324750
+- Dhruva Vinod - +91 8848675434
 
 ## Table of Contents
 
@@ -154,8 +168,6 @@ Expected Features:
 -   Use anything for the database but user link mandatory anddd no scamming with localStorage... make sure it's persistent storage :)
 
 -   State management is required ... you can use Context API, Redux Toolkit, or any approach you prefer, but auth and notes state should be handled.
-
--   UI
 
 -   Responsive layout using ReactJS / Tailwind / anything of ur choice really
 
