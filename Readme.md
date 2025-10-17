@@ -39,7 +39,7 @@ Build as good of a look alike of the IRIS homepage as you can. Use only HTML/CSS
 
 ### Basic Calculator Web Page
 
-Build a Basic Calculator web page. Should follow the below aesthetic and have all the features. 
+Build a Basic Calculator web page. Should follow the below aesthetic and have all the features. Should be a functional calcaultor.  
 Bonus points if you can implement the history feature to save past calculations and do advanced operations like adding brackets and computing log and so on (See a Casio 991ES plus calculator).
 
 <img width="353" height="584" alt="image" src="https://github.com/user-attachments/assets/c2274951-c880-45a4-a8f2-26811ccd69a2" />
